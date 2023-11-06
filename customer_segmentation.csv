@@ -1,0 +1,87 @@
+Age,Income,Education,Region,Country
+35,50000,Bachelors,North,USA
+42,75000,Masters,South,USA
+28,32000,High School,East,Canada
+45,90000,PhD,West,USA
+36,60000,Bachelors,North,Canada
+52,110000,Masters,South,Mexico
+25,28000,High School,East,USA
+39,68000,Bachelors,North,Canada
+48,79000,Masters,South,Mexico
+30,35000,High School,East,USA
+43,98000,PhD,West,USA
+27,30000,High School,East,Canada
+55,115000,Masters,South,Mexico
+33,48000,Bachelors,North,Canada
+41,68000,PhD,West,USA
+29,37000,High School,East,Canada
+46,95000,PhD,West,Mexico
+31,39000,Bachelors,North,USA
+50,89000,Masters,South,USA
+34,52000,High School,East,Canada
+47,87000,PhD,West,Mexico
+26,32000,High School,East,USA
+38,65000,Bachelors,North,Canada
+49,98000,Masters,South,USA
+32,44000,High School,East,Canada
+51,93000,PhD,West,Mexico
+37,62000,Bachelors,North,USA
+44,87000,Masters,South,Mexico
+28,32000,High School,East,USA
+39,68000,Bachelors,North,Canada
+48,79000,Masters,South,Mexico
+30,35000,High School,East,USA
+43,98000,PhD,West,USA
+27,30000,High School,East,Canada
+55,115000,Masters,South,Mexico
+33,48000,Bachelors,North,Canada
+41,68000,PhD,West,USA
+29,37000,High School,East,Canada
+46,95000,PhD,West,Mexico
+31,39000,Bachelors,North,USA
+50,89000,Masters,South,USA
+34,52000,High School,East,Canada
+47,87000,PhD,West,Mexico
+26,32000,High School,East,USA
+38,65000,Bachelors,North,Canada
+49,98000,Masters,South,USA
+32,44000,High School,East,Canada
+51,93000,PhD,West,Mexico
+22,40000,Bachelors,North,USA
+40,75000,Masters,South,USA
+26,34000,High School,East,Canada
+48,87000,PhD,West,Mexico
+27,31000,High School,East,USA
+36,63000,Bachelors,North,Canada
+45,96000,Masters,South,Mexico
+29,36000,High School,East,USA
+34,50000,Bachelors,North,Canada
+53,112000,Masters,South,Mexico
+23,32000,High School,East,USA
+37,61000,Bachelors,North,Canada
+47,82000,PhD,West,Mexico
+25,29000,High School,East,USA
+35,55000,Bachelors,North,USA
+46,91000,PhD,West,Mexico
+33,47000,Bachelors,North,Canada
+42,78000,Masters,South,USA
+28,33000,High School,East,Canada
+49,99000,Masters,South,USA
+31,40000,High School,East,USA
+26,31000,High School,East,USA
+45,93000,PhD,West,Mexico
+29,37000,High School,East,Canada
+38,64000,Bachelors,North,Canada
+51,96000,PhD,West,Mexico
+24,31000,High School,East,USA
+36,64000,Bachelors,North,Canada
+46,91000,PhD,West,Mexico
+31,39000,Bachelors,North,USA
+50,88000,Masters,South,USA
+34,54000,High School,East,Canada
+47,86000,PhD,West,Mexico
+26,31000,High School,East,USA
+38,66000,Bachelors,North,Canada
+49,97000,Masters,South,USA
+32,45000,High School,East,Canada
+51,94000,PhD,West,Mexico
